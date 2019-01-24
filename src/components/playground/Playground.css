@@ -16,4 +16,11 @@ button {
     font-family: 'Comic Sans MS';
     background-color: rebeccapurple;
     color: white;
+    text-transform: uppercase;
+}
+.red-background {
+  background-color: red;
+}
+.green-background {
+  background-color: green;
 }
